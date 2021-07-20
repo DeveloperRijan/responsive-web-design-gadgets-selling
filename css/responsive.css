@@ -1,0 +1,750 @@
+@media screen and (max-width: 1199px){
+  /* mobile store page responsive css */
+  .body-searchBar form .searchBox {
+	   width: 85%;
+  }
+  .singleMobile-store p {
+	   height: 65px;
+     vertical-align: middle;
+  }
+  .category-sidebar ul{
+    padding-left: 5px;
+  }
+
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 436px;
+  	left: 270px;
+  }
+  .what-we-do-middle-icon2 img {
+  	bottom: 220px;
+  	left: 270px;
+  }
+}
+
+
+@media screen and (max-width: 1140px){
+  .sell_phone_top h2 {
+	   font-size: 25px;
+  }
+
+  .navbar-light .navbar-toggler {
+	 color: #fff !important;
+	 border-color: #fff;
+	 background: #fff;
+  }
+}
+
+@media screen and (max-width: 991px){
+
+  /* contact page responsive css */
+  .contact-form-in-page .middleIcon .middleIcon_vertical {
+     height: 800px;
+  }
+
+  /* mobile store page responsive css */
+  .body-searchBar form .searchBox {
+	   width: 78%;
+  }
+
+  /* faq page responsive css */
+  .faq-page-icon img {
+  	width: 80px;
+  	height: 90px;
+  }
+  .faq-page-icon h2 {
+  	margin-left: 5px;
+  	font-size: 25px;
+  }
+
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 554px;
+  	left: 185px;
+  }
+  .what-we-do-middle-icon2 img {
+  	bottom: 300px;
+  	left: 185px;
+  }
+}
+
+
+@media screen and (max-width: 990px){
+  .logo-and-rightContents .logo img {
+	   height: 90px;
+     width: 150px;
+  }
+
+  .sell_phone_top h2 {
+	   font-size: 16px;
+  }
+
+  .rightContents ul li img {
+	   width: 60px;
+	   height: 60px;
+  }
+
+  .rightContents-secondRow .search-top .form-inline .form-control {
+	   width: 70%;
+	   padding: 20px;
+  }
+
+  .search-top .form-inline .btn-success {
+	   padding: 8px;
+  }
+
+  .search-top {
+	   margin-left: -1px;
+  }
+
+  .modal-dialog{
+    max-width: 650px;
+  }
+  .single-sell-product .card img {
+	   height: 230px;
+  }
+
+  .carousel-control-prev {
+	   top: 110px;
+  }
+  .carousel-control-next {
+	   top: 110px;
+  }
+
+  .home_eye_icon_left {
+	   padding-left: 145px;
+  }
+
+  .home-remember img {
+	   height: 250px;
+  }
+
+  .home-smile-face .home_smile_icon {
+    height: 100px;
+  }
+
+
+  .bottomAppleSamsung{
+    margin-top: 18px;
+  }
+
+
+  .footer_social_media .fa-facebook-square {
+	   font-size: 25px;
+  }
+  .footer_social_media .fa-twitter-square {
+	   font-size: 25px;
+  }
+  .footer_social_media .footer_social_media_text {
+	   padding-right: 8px;
+  }
+
+  .footer_left p{
+    font-size: 14px;
+  }
+
+  .register-portion a {
+	   margin-right: 45px;
+  }
+  .register-portion img {
+	 height: 215px;
+  }
+
+}
+
+@media screen and (max-width: 767px){
+  .logo{
+    text-align: center;
+  }
+  .logo-and-rightContents .logo img {
+	  height: 130px;
+	  width: 30%;
+  }
+
+  .rightContents-firstRow {
+	   padding-left: 0;
+  }
+  .rightContents-firstRow .list-group .list-group-item{
+    padding: 25px 15px 0px 0px;
+  }
+  .rightContents-secondRow .search-top .form-inline .form-control {
+	   width: 80%;
+  }
+
+  .sell_phone_top h2 {
+	   font-size: 21px;
+	   width: 200px;
+  }
+
+  .rightContents-thirdRow .thirdRow-firstCol {
+	   padding-right: 0;
+	   padding-left: 0;
+  }
+  .rightContents-thirdRow .thirdRow-thirdtCol{
+    padding-right: 0;
+  }
+
+  .carouselItemSingle {
+	   width: 50%;
+  }
+
+  .home-tab-contents{
+    margin-top: 30px;
+  }
+
+  .footer_copyright {
+	   padding-top: 60px;
+  }
+
+  .register-portion img{
+
+  }
+
+  /* max-width 767px contact page responsive css */
+  .contact-form-in-page .leftPortion {
+	   padding: 30px;
+  }
+  .contact-form-in-page .rightPortion {
+	   padding: 30px;
+  }
+
+  .contact-form-in-page .middleIcon .middleIcon_vertical{
+    display: none;
+  }
+  .contact-form-in-page .middleIcon .middleIcon_horizontal{
+    display: block;
+    width: 100%;
+  }
+  .rightPortion h3 {
+	   text-align: center;
+  }
+
+  /* mobile page responsive css */
+  .mobile-store-section .category-sidebar {
+    height: inherit;
+  }
+
+  /* why-recycle page responsive css */
+  .why-recycle-right {
+	   padding-left: 15px;
+  }
+
+  /* faq page responsive css */
+  .faq-page-icon img {
+  	margin-left: -132px;
+  }
+
+  /* what-we-do page responsive css */
+  .what-we-do-page {
+    padding-top: 0;
+  }
+  .what-we-do-middle-icon1 img {
+  	bottom: 582px;
+  }
+  .what-we-do-middle-icon2 img {
+  	bottom: 322px;
+  }
+
+
+}
+
+@media screen and (max-width: 669px){
+  .modal-dialog{
+    max-width: 540px;
+  }
+  .register-portion img {
+	   height: 180px;
+	   width: 190px;
+  }
+}
+
+@media screen and (max-width: 575px){
+  .loginResponsiveEnable{
+    width: 300px;
+  }
+  .registerResponsiveEnable{
+    width: 200px;
+  }
+  .register-portion a{
+    margin-right: -4px;
+  }
+
+  /* what-we-do page css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 456px;
+  	left: 230px;
+  }
+  .what-we-do-middle-icon2 img {
+  	bottom: 247px;
+  	left: 230px;
+  }
+  .footer_section {
+  	margin-top: 0px;
+  }
+
+  /* how-it-works page responsive css */
+  .how-it-works {
+  	padding-top: 30px;
+  }
+
+
+}
+
+@media screen and (max-width: 570px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 480px;
+  }
+}
+
+
+@media screen and (max-width: 559px){
+  .modal-dialog {
+	   max-width: 530px;
+	   margin-left: 15px;
+  }
+  .loginResponsiveEnable {
+	   width: 260px;
+  }
+}
+
+@media screen and (max-width: 547px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 504px;
+  }
+  .what-we-do-middle-icon2 img {
+  	bottom: 274px;
+  }
+}
+
+
+
+
+@media screen and (max-width: 540px){
+  .search-top {
+	   margin-left: 15px;
+  }
+
+  .rightContents-thirdRow .thirdRow-firstCol {
+	   padding-right: 15px;
+	   padding-left: 15px;
+  }
+
+  .rightContents-thirdRow .thirdRow-thirdtCol {
+	   padding-right: 15px;
+	   padding-left: 15px !important;
+  }
+
+  .home_eye_icon_left {
+	   padding-left: 30px;
+   }
+  .home_eye_icon_right {
+	   padding-right: 0px;
+  }
+
+  /* mobile store page responsive css */
+  .singleMobile-store {
+	   width: 33.33%;
+  }
+
+}
+
+@media screen and (max-width: 538px){
+
+    .logo-and-rightContents .logo img {
+      width: 150px;
+    }
+
+    .list-group-horizontal{
+      padding-left: 145px;
+    }
+
+    .rightContents-firstRow .list-group .list-group-item {
+      padding: 50px 15px 0px 0px;
+    }
+    .sell_phone_top{
+      margin-top: -100px;
+      padding-left: 18px;
+    }
+
+    .responsiveModeEnableOne{
+      margin-left: -258px;
+    }
+}
+
+@media screen and (max-width: 516px){
+  .register-portion img{
+    display: none;
+  }
+  .register-portion a {
+	   margin-right: 17px;
+	   margin-top: 15px;
+  }
+
+  /* faq page responsive css */
+  .faq-page-content .single-faq-full .single-faq .media-body button{
+    font-size: 14px;
+    padding: 0;
+  }
+  .faq-page-content .single-faq-full .single-faq-title h4{
+    font-size: 16px;
+  }
+
+}
+
+@media screen and (max-width: 508px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 533px;
+  	left: 206px;
+  }
+  .what-we-do-middle-icon2 img {
+  	bottom: 293px;
+  	left: 206px;
+  }
+}
+
+
+@media screen and (max-width: 481px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 548px;
+  	height: 70px;
+  	left: 200px;
+  }
+  .what-we-do-middle-icon2 img {
+  	bottom: 311px;
+    height: 70px;
+  	left: 200px;
+  }
+}
+
+
+@media screen and (max-width: 480px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 566px;
+  	left: 193px;
+  }
+  .what-we-do-middle-icon2 img {
+  	bottom: 310px;
+  	left: 193px;
+  }
+}
+
+@media screen and (max-width: 460px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 598px;
+  	left: 177px;
+  }
+  .what-we-do-middle-icon2 img {
+  	bottom: 338px;
+  	left: 177px;
+  }
+}
+
+
+
+@media screen and (max-width: 425px){
+  .list-group-horizontal {
+	   padding-left: 80px;
+  }
+
+  .single-sell-product .card img {
+    height: 200px;
+  }
+
+  .carousel-control-prev, .carousel-control-next {
+	   top: 80px;
+  }
+
+  .home-smile-face .home_smile_icon {
+	   height: 80px;
+  }
+  .bottomAppleSamsung {
+	   margin-top: 35px;
+  }
+  .bottomAppleSamsung .bottom_apple_icon{
+    width: 50px;
+  }
+
+  .bottomAppleSamsung .bottom_samsung_icon{
+    width: 130px;
+  }
+
+  .portionTitle h3{
+    font-size: 18px;
+  }
+
+  /* contact page css */
+  .contact-page-call-us img {
+	   width: 70%;
+	   padding-top: 30px;
+	   height: 200px;
+  }
+
+  /* store mobile page responsive css */
+  .body-searchBar form .searchBox {
+	   width: 70%;
+  }
+
+  /* how-it-works page responsive css */
+  .how-it-works .secondImg {
+  	height: 120px;
+  }
+  .how-it-works img{
+    height: 120px;
+  }
+}
+
+@media screen and (max-width: 411px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 644px;
+  	left: 171px;
+  }
+  .what-we-do-middle-icon2 img {
+  	bottom: 359px;
+  	left: 171px;
+  }
+}
+
+@media screen and (max-width: 385px){
+  /* faq page responsive css */
+  .faq-page-icon h2 {
+  	font-size: 18px;
+  }
+  .faq-page-icon img {
+  	width: 60px;
+  	height: 70px;
+  }
+
+  /* about us page responsive css */
+  .about-us-content h4 {
+  	margin-top: 30px;
+  	font-size: 20px;
+  }
+
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 665px;
+  	left: 158px;
+  }
+  .what-we-do-middle-icon2 img {
+  	bottom: 383px;
+  	left: 158px;
+  }
+}
+
+@media screen and (max-width: 371px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+    bottom: 690px;
+  }
+  .what-we-do-middle-icon2 img {
+    bottom: 383px;
+  }
+}
+
+@media screen and (max-width: 361px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 713px;
+  	left: 145px;
+  }
+  .what-we-do-middle-icon2 img {
+    bottom: 410px;
+    left: 145px;
+  }
+}
+
+@media screen and (max-width: 360px){
+  .list-group-horizontal {
+	   padding-left: 60px;
+  }
+
+  .single-sell-product .card img {
+	   height: 180px;
+  }
+
+  .single-sell-product .card .card-body {
+	   height: 115px;
+  }
+  .single-sell-product .card .card-body h5,
+  .single-sell-product .card .card-body p{
+    font-size: 16px;
+  }
+
+  .rightContents-secondRow .search-top .form-inline .form-control {
+	   width: 70%;
+  }
+
+  .search-top .form-inline .btn-success {
+	   width: 25%;
+  }
+
+  .home_eye_icons {
+	   margin-top: -23px;
+  }
+
+  .home_eye_icon_right {
+    height: 60px;
+  }
+  .home_eye_icon_left {
+	   height: 60px;
+   }
+
+   .home-remember-condition-full {
+	    padding: 40px 0px 5px 0px;
+  }
+
+  .home-remember img {
+	   height: 200px;
+  }
+  .home-tab-contents .tab-content h4 {
+	   padding: 5px 0px;
+   }
+
+
+   /* contact page responsive css */
+   .rightPortion .media img {
+	    width: 40px;
+	    height: 60px;
+  }
+
+  /* mobile store page responsive css */
+  .singleMobile-store {
+	   width: 50%;
+  }
+
+  /* about us page responsive css */
+  .about-us-icon img {
+  	width: 250px;
+  	padding-top: 30px;
+  }
+
+}
+
+@media screen and (max-width: 342px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 740px;
+  }
+  .what-we-do-middle-icon2 img {
+    bottom: 433px;
+  }
+}
+
+@media screen and (max-width: 340px){
+  .list-group-horizontal {
+	   padding-left: 40px;
+  }
+
+  .single-sell-product .card img {
+	   height: 160px;
+  }
+}
+
+@media screen and (max-width: 323px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 764px;
+  	left: 126px;
+  }
+  .what-we-do-middle-icon2 img {
+    left: 126px;
+  }
+}
+
+@media screen and (max-width: 320px){
+  .list-group-horizontal {
+	   padding-left: 40px;
+  }
+
+  .rightContents ul li img {
+	   width: 50px;
+	   height: 50px;
+  }
+
+  .home-remember img {
+	   height: 160px;
+  }
+
+  .home-smile-face .home_smile_icon {
+	   height: 50px;
+  }
+  .bottomAppleSamsung {
+	   margin-top: 60px;
+   }
+
+   .bottomAppleSamsung .bottom_apple_icon {
+	    width: 40px;
+  }
+  .bottomAppleSamsung .bottom_samsung_icon {
+	   width: 110px;
+  }
+
+  /* mobile store page responsive CSS */
+  .body-searchBar form .searchBox {
+	   width: 62%;
+  }
+
+}
+
+@media screen and (max-width: 315px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 782px;
+  }
+  .what-we-do-middle-icon2 img {
+    bottom: 455px;
+  }
+}
+
+@media screen and (max-width: 310px){
+  .loginResponsiveEnable {
+	   padding: 0;
+  }
+}
+
+@media screen and (max-width: 297px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 811px;
+  	left: 115px;
+  }
+  .what-we-do-middle-icon2 img {
+    left: 115px;
+  }
+}
+
+@media screen and (max-width: 295px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 835px;
+  }
+  .what-we-do-middle-icon2 img {
+    bottom: 482px;
+  }
+}
+
+@media screen and (max-width: 292px){
+  /* what-we-do page responsive css */
+  .what-we-do-middle-icon1 img {
+  	bottom: 857px;
+  }
+  .what-we-do-middle-icon2 img {
+    bottom: 506px;
+  }
+}
+
+@media screen and (max-width: 290px){
+  .list-group-horizontal {
+     padding-left: 33px;
+  }
+  .bottomAppleSamsung .bottom_samsung_icon {
+	width: 115px;
+  }
+}

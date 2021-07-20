@@ -1,0 +1,602 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+}
+
+
+/*
+site-top-info css
+*/
+.site-top-info{
+  background:#000;
+}
+.site-top-info p{
+  margin: 0;
+  padding: 5px 0;
+  color: #fff;
+}
+
+/*
+.header-top-section css
+*/
+.header-top-section{
+  background: green;
+  padding-bottom: 10px;
+}
+
+
+/*
+.top-nav css
+*/
+.top-nav .bg-light{
+  background: transparent !important;
+}
+.top-nav .bg-light .nav-item .nav-link{
+  color: #fff !important;
+}
+
+.navbar-light .navbar-text{
+  margin: 0px -18px 0px 0px;
+}
+
+
+/*
+.logo-and-rightContents css
+*/
+.logo-and-rightContents .logo img{
+  width: 100%;
+  height: 150px;
+}
+
+.rightContents-firstRow{
+  padding-left: 55px;
+}
+.rightContents ul li{
+  display: inline-block;
+  background-color: transparent;
+  border: none;
+}
+.sell_phone_top{
+  padding: 0px;
+}
+.sell_phone_top h2{
+  font-size: 40px;
+  font-weight: bold;
+}
+
+
+.rightContents ul li img{
+  width: 90px;
+  height: 85px;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+}
+
+.rightContents ul li .top-truck{
+    margin: 0px 15px;
+}
+.rightContents ul li .fa-angle-right {
+  color: #fff;
+  font-size: 33px;
+  vertical-align: middle !important;
+}
+
+
+
+.rightContents-secondRow .search-top .form-inline .form-control{
+  width: 80%;
+  text-align: center;
+  color: #999;
+  padding: 25px;
+}
+
+.search-top {
+	padding-top: 30px;
+	padding-left: 0;
+	margin-left: -35px;
+}
+.search-top .form-inline .btn-success {
+  width: 18%;
+  text-align: center;
+  background: green !important;
+  color: #ffffff !important;
+  border: 1px solid #ddd;
+  padding: 13px;
+}
+.search-top .form-inline .btn-success:hover{
+  background: green;
+  color: #fff;
+}
+
+
+
+.order-tracking-top{
+  margin-top: 4px;
+}
+.order-tracking-top span {
+  font-size: 20px;
+  background: #fff;
+  padding: 6px 17px;
+  color: #000;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+.order-tracking-top span a{
+  text-decoration: none;
+  color: #000;
+}
+.order-tracking-top span a:hover{
+  color: green;
+}
+
+
+.rightContents-thirdRow .card{
+  background: no-repeat;
+  border: none;
+  margin-top: 45px;
+}
+.rightContents-thirdRow .card .list-group-item {
+  color: #fff;
+  background: #00CB36;
+  margin-bottom: 10px;
+}
+
+.rightContents-thirdRow .card .list-group-item .fa-check{
+  font-size: 25px;
+  font-weight: bold;
+  color: green;
+}
+
+
+.thirdRow-firstCol{
+  padding-right: 0;
+}
+
+
+.rightContents-thirdRow{
+  position: relative;
+  z-index: 999;
+}
+
+
+
+/*
+user-account-button css
+*/
+.user-account-button{
+	font-weight: bold;
+  background: green;
+  border: 1px solid #fff;
+}
+
+
+/*
+user-account-modal css
+*/
+.modal-header .account-home-popup{
+  color: #000;
+  font-weight: bold;
+  text-shadow: 6px 9px 5px #DDA;
+}
+.login_register_bg_color{
+  background: green;
+}
+.login-portion{
+  margin-right: 10px;
+  padding-right: 15px;
+}
+.login-portion h5{
+  color: #fff;
+}
+.login-portion label{
+  color: #fff;
+}
+
+
+.register-portion{
+  text-align: right;
+}
+.register-portion a{
+  margin-right: 10px;
+  color: #fff !important;
+  background: green;
+  border: 1px solid #fff;
+}
+.register-portion img{
+  width: 100%;
+  margin-top: 30px;
+  padding-left: 30px;
+}
+
+
+
+/*
+.remember-and-condition css
+
+*/
+.remember-and-condition{
+  background: green;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+.home-remember-condition-full{
+  padding: 40px 0;
+}
+.home-remember .rememberLongText{
+  padding: 25px 25px 0px 25px;
+}
+
+.home-remember img{
+  width: 100%;
+  height: 350px;
+  cursor: pointer;
+}
+
+.home-remember p a{
+  color: yellow;
+}
+
+
+
+
+/*
+.home-tab-contents css
+*/
+
+.home-tab-contents .nav-pills .nav-link.active, .nav-pills .show > .nav-link{
+  background-color: green;
+}
+.home-tab-contents ul li a{
+  color: yellow;
+}
+
+.home-tab-contents .tab-content{
+  margin: 15px 20px;
+}
+.home-tab-contents .tab-content h4 {
+  background: forestgreen;
+  color: #fff;
+  margin-bottom: 00;
+  padding: 15px 0px;
+}
+
+.home-tab-contents .list-group .list-group-item{
+  padding: 5px 15px;
+}
+
+.tab_contens_single .scrollabel_tabContent {
+  overflow: scroll;
+  height: 300px;
+  background: #00B520;
+  padding: 20px;
+  color: #222;
+}
+
+.scrollabel_tabContent .fa-arrow-circle-right{
+  color: #fff;
+}
+
+
+.home-tab-contents .tab-content ul{
+  background: #00F852;
+  padding: 0px 10px;
+}
+
+
+
+
+
+
+
+/*
+.home-sell-products-full css
+
+*/
+.home-sell-products .home_middle_link a {
+  background: #0AD54D;
+  border: none;
+  margin-bottom: 20px;
+  box-shadow: 0px 1px 12px green;
+}
+.home-sell-products .home_middle_link a:hover{
+  padding: 5px;
+}
+
+
+.home_eye_icons {
+  position: absolute;
+  margin-top: -35px;
+}
+.home_eye_icon_left {
+  float: left;
+  padding-left: 135px;
+  height: 80px;
+}
+.home_eye_icon_right {
+  float: right;
+  padding-right: 115px;
+  height: 80px;
+}
+
+
+.home-sell-products-full{}
+.use-bg-color{
+  background: green;
+}
+
+.home-sell-products {
+  margin-top: 25px;
+  padding-top: 50px;
+  padding-bottom: 35px;
+  border-radius: 5px;
+}
+
+.single-sell-product{}
+
+.carouselItemSingle{
+  padding-left: 0;
+  padding-right: 0;
+}
+.single-sell-product .card{
+  width: 90%;
+  margin-left: 17px;
+  border: 1px solid green;
+  margin-bottom: 20px;
+}
+
+.single-sell-product .card img{
+  padding: 15px;
+  cursor: pointer;
+  transition: .8s;
+  height: 300px;
+}
+.single-sell-product .card img:hover{
+  transform: skew(10deg);
+}
+
+.single-sell-product .card .card-body{
+  text-align: center;
+  background: forestgreen;
+  height: 130px;
+}
+
+.single-sell-product .card .card-body .card-title a{
+  color: #fff;
+}
+
+.device-details-portion .form-group label{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.show-offer-amount{
+    background: green;
+    text-align: center;
+    color: #fff;
+    padding: 10px 0;
+}
+
+
+/*
+carousel controller css
+*/
+.carousel-control-prev{
+  top: 130px;
+  left: 3px;
+  width: 30px;
+  height: 30px;
+  background: green;
+}
+.carousel-control-next{
+  top: 130px;
+  right: 0px;
+  width: 30px;
+  height: 30px;
+  background: green;
+}
+
+
+.carousel-control-prev .fa-forward{
+
+}
+.carousel-control-next .fa-backward{
+
+}
+
+
+
+
+.popupMobleAndUserDetails .modal-title {
+  color: #000;
+  font-weight: bold;
+}
+.popupMobleAndUserDetails .modal-body .device-details-portion,
+.seller-details-portion{
+  color: #222
+}
+
+.portionTitle h3 {
+  color: #fff;
+  background: green;
+  text-align: center;
+  padding: 10px 0;
+  font-weight: bold;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.popupMobleAndUserDetails .modal-dialog .modal-content {
+    /* 80% of window height */
+    height: 100%;
+}
+.modal-body {
+    /* 100% = dialog height, 120px = header + footer */
+    max-height: calc(100% - 120px);
+    overflow-y: scroll;
+}
+.seller-details-portion .submitDetailsButton{
+  background: green;
+  border: none;
+}
+
+
+
+
+
+
+
+/*
+.home-smile-face
+*/
+.home-smile-face{
+  background: green;
+  margin-top: 25px;
+}
+
+.home-smile-face .home_smile_icon{
+  width: 100%;
+  height: 130px;
+}
+
+.bottom_apple_samsung{
+  margin-top: -128px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+
+
+
+
+/*
+.footer_section css
+*/
+.footer_section{
+  background: green;
+  padding: 30px 0;
+}
+
+
+
+.footer_left .footer_compare_img{
+  width: 30%;
+}
+
+
+.footer-category .custom-select, .footer-brand .custom-select{
+  background: #00F852;
+  color: #000;
+  border: #000;
+  text-align: center;
+  cursor: pointer;
+}
+
+.footer-brand{
+  padding-top: 10px;
+}
+
+.contact-us-footer a {
+  color: #222;
+  text-decoration: none;
+}
+
+
+
+.footer_right .footer-subscribe .gadgetForCash-subscribe{
+  background: white;
+  color: #000;
+  border: none;
+  width: 100%;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.footer_right .footer-subscribe .gadgetForCash-subscribe:hover{
+  background: green;
+  border:#ddd;
+}
+
+
+
+.footer_social_media{
+  text-align: center;
+}
+.footer_social_media .footer_social_media_text{
+  color: #fff;
+  padding-right: 15px;
+}
+.footer_social_media .fa-facebook-square{
+  font-size: 35px;
+  color: #fff;
+}
+.footer_social_media .fa-twitter-square{
+  font-size: 35px;
+  color: #fff;
+}
+
+
+.footer-liveChat a img {
+  background: none;
+  border: none;
+  transition: .8s;
+  height: 120px;
+  width: 120px;
+  margin-left: 170px;
+}
+.footer-liveChat a img:hover{
+  transform: rotate(360deg);
+}
+
+
+
+.footer_copyright{
+  padding-top: 35px;
+}
+.footer_copyright img{
+  width: 60px;
+  height: 60px;
+  margin-top: -50px;
+}
+.footer_copyright a{
+  text-decoration: none;
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+/*
+//css for back to top button
+// use commented css if you use text instead of image in scroll button
+*/
+#back2Top {
+    width: 40px;
+    /*line-height: 40px;*/
+    /*overflow: hidden;*/
+    z-index: 999;
+    display: none;
+    cursor: pointer;
+    /*-moz-transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);*/
+    position: fixed;
+    bottom: 50px;
+    right: 10px;
+    /*background-color: #00ACEC;*/
+    /*color: #fff;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;*/
+}
+#back2Top:hover {
+    /*background-color: #DDF;*/
+    /*color: #000;*/
+}

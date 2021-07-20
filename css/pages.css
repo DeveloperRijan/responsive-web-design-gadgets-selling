@@ -1,0 +1,365 @@
+/*
+css for mobile-store page
+*/
+.main-content-area .zig-zag-image img {
+	width: 100%;
+	padding: 0 50px;
+	margin-top: -25px;
+	position: absolute;
+	z-index: 1;
+}
+
+
+.send-your-mobile-image {
+	padding-top: 50px;
+}
+.send-your-mobile-image img {
+	width: 100%;
+}
+
+
+.mobile-store-section {
+	margin-top: 30px;
+}
+
+
+.body-searchBar form {
+	background: green;
+	padding: 10px;
+	border-radius: 5px;
+}
+.body-searchBar form .searchBox {
+	width: 90%;
+}
+.body-searchBar form button {
+	background: #fff;
+	border-radius: 5px;
+}
+
+
+.mobile-store-section .category-sidebar {
+	background: green;
+	height: 300px;
+	border-radius: 5px;
+}
+.mobile-store-section .category-sidebar h3 {
+	font-weight: bold;
+	padding: 15px 0;
+	text-align: center;
+}
+.mobile-store-section .category-sidebar ul li{}
+.mobile-store-section .category-sidebar ul li a {
+	color: #fff;
+}
+
+
+
+.mobile-store-all-mobile{}
+
+.singleMobile-store {
+	width: 25%;
+	float: left;
+	border: none;
+	margin-bottom: 20px;
+	padding: 5px;
+}
+
+.singleMobile-store p {
+	color: #fff;
+	text-align: center;
+	background: green;
+	padding: 5px 0;
+	border-radius: 5px;
+}
+
+.singleMobile-store .product-image img{
+	width: 100%;
+}
+
+
+
+.singleMobile-store .card-body .sellButton {
+	width: 100%;
+	background: forestgreen;
+	color: #fff;
+	border: none;
+}
+.singleMobile-store .card-body .sellButton:hover{
+	background: #F5EB43;
+	color: #000;
+}
+
+
+/*
+css for about-us page
+*/
+.about-us-icon img {
+	width: 320px;
+	padding-top: 50px;
+}
+.about-us-content p{
+	color: #222;
+}
+.about-us-content h4 {
+	color: #222;
+	font-weight: bold;
+	margin-top: 50px;
+}
+
+
+
+/*
+css for contact-us page
+*/
+.contact-page-call-us img {
+	width: 100%;
+	padding-left: 15px;
+	padding-top: 50px;
+}
+.contact-form-in-page {
+	background: green;
+	border-radius: 5px;
+}
+.contact-form-in-page label{
+	color: #fff;
+}
+.contact-form-in-page .contactUs {
+	background: #fff;
+	color: #222;
+	border: 1px solid #ddd;
+}
+.contact-form-in-page .contactUs:hover {
+	font-weight: bold;
+}
+
+
+.contact-form-in-page .leftPortion {
+	padding: 50px 0px 50px 50px;
+}
+.contact-form-in-page .rightPortion {
+	padding: 50px 50px 50px 0px;
+}
+
+.contact-form-in-page .middleIcon .middleIcon_vertical {
+	height: 700px;
+	margin-top: -3px;
+	padding: 0;
+}
+.contact-form-in-page .middleIcon .middleIcon_horizontal{
+	display: none;
+}
+
+
+.rightPortion h3 {
+	color: #fff;
+	font-weight: bold;
+}
+.rightPortion p {
+	color: #fff;
+}
+
+
+.rightPortion .media {
+	margin-bottom: 20px;
+}
+.rightPortion .media img {
+	width: 50px;
+	height: 80px;
+}
+.rightPortion .media .close-envelope {
+	height: 50px;
+}
+
+.rightPortion .media .media-body h5{
+	color: #fff;
+	font-weight: bold;
+}
+
+.rightPortion .media .read-our-review h5{
+	padding-top: 25px;
+}
+.rightPortion .media .media-body p{}
+
+
+
+
+/*
+css for faq-page
+*/
+.faq-page-icon {
+	padding-left: 130px;
+	padding-top: 50px;
+}
+.faq-page-icon img {
+	width: 100px;
+	height: 115px;
+}
+.faq-page-icon h2 {
+	color: #FF6966;
+	display: inline-block;
+	margin-left: 50px;
+	font-weight: bold;
+}
+
+.single-faq-full{
+	margin-bottom: 30px;
+}
+.faq-page-content .single-faq-full .single-faq-title h4 {
+	color: #FF6966;
+	font-weight: bold;
+	margin-left: 50px;
+}
+.faq-page-content .single-faq-full .single-faq img {
+	width: 35px;
+}
+.faq-page-content .single-faq-full .single-faq .media-body button {
+	color: #222;
+	text-align: left;
+}
+.faq-page-content .single-faq-full .single-faq .media-body button:hover{
+	color: green;
+}
+
+
+
+.question_answer {
+	background: #999;
+	padding: 10px;
+	margin-top: 5px;
+}
+.question_answer p {
+	padding: 0;
+	margin-bottom: 10px;
+	color: #000;
+}
+
+
+/*
+css for how-it-works page
+*/
+.how-it-works{
+	padding-top: 50px;
+}
+.how-it-works .secondImg {
+	margin-top: -25px;
+}
+.how-it-works img {
+	width: 100%;
+	height: 190px;
+	margin-bottom: 20px;
+}
+.how-it-works .firstImg{
+	margin-bottom: 0;
+	padding: 15px;
+}
+
+
+
+
+/*
+css for privacy-policy page
+*/
+.privacy_policy_content{
+	margin-top: 50px;
+}
+.single_privacy_policy{
+	margin-bottom: 30px;
+}
+.privacy_policy_content .single_privacy_policy h4 {
+	color: #222;
+	font-weight: bold;
+}
+.privacy_policy_content .single_privacy_policy p{
+	color: #222;
+}
+
+
+/*
+css for terms-condition page
+*/
+.terms_conditions_content{
+	margin-top: 50px;
+}
+.single_terms_conditions h4{
+	color: #222;
+	font-weight: bold;
+}
+.single_terms_conditions p{
+	color: #222;
+}
+
+
+
+/*
+css for what-we-do-page
+*/
+.what-we-do-page{
+	padding-top: 50px;
+}
+.what-we-do-page .what-we-do-icon img {
+	width: 200px;
+	padding-top: 50px;
+}
+.what-we-do-page .block_desing {
+	color: #fff;
+	background: green;
+	padding: 30px 15px;
+	border-radius: 5px;
+	margin-bottom: 30px;
+}
+
+.what-we-do-middle-icon1 img {
+	position: absolute;
+	height: 100px;
+	bottom: 388px;
+	left: 322px;
+}
+.what-we-do-middle-icon2 img {
+	position: absolute;
+	height: 100px;
+	bottom: 195px;
+	left: 322px;
+}
+
+
+
+
+/*
+css for why-recycle-page
+*/
+.why-recycle-page {
+	padding-top: 50px;
+}
+.single-why-recycle .title-and-image h5 {
+	color: #222;
+	float: left;
+	font-size: 17px;
+	margin-top: 12px;
+	padding-right: 10px;
+	font-weight: bold;
+}
+.single-why-recycle .title-and-image img {
+	width: 40px;
+	height: 40px;
+}
+.single-why-recycle p {
+	color: #222;
+	margin-top: 20px;
+}
+
+.why-recycle-right{
+	padding-left: 70px;
+}
+
+
+.single-why-recycle .extraCssImg {
+	width: 80px !important;
+}
+
+/*
+page bottom css overwrite the main css
+*/
+.footer_section {
+	padding: 50px 0px 0px 0px;
+	margin-top: 50px;
+}
